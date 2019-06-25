@@ -1,0 +1,29 @@
+year,topicdesc,age,Every Day,Some Days,TotalUsers,TotalSize,PercentUsers,PercentAgeUsers,TotalAgeUsers,TotalAgeSize
+2011,Cigarette Use (Adults),18 to 24 Years,60204,22667,98032,472358,21,0.23,5136,22068
+2011,Smokeless Tobacco Use (Adults),25 to 44 Years,8159,7004,20510,474578,4,0.25,27996,110587
+2011,E-Cigarette Use (Adults),45 to 64 Years,0,0,0,0,0,0.21,42068,197888
+2011,,65 Years and Older,,,,,,0.09,14199,155665
+2012,Cigarette Use (Adults),18 to 24 Years,53489,21025,85255,435339,20,0.21,4902,23383
+2012,Smokeless Tobacco Use (Adults),25 to 44 Years,7510,6322,18041,437113,4,0.24,24531,101972
+2012,E-Cigarette Use (Adults),45 to 64 Years,0,0,0,0,0,0.2,36621,178794
+2012,,65 Years and Older,,,,,,0.09,12966,145857
+2013,Cigarette Use (Adults),18 to 24 Years,53784,21261,84195,443687,19,0.2,4979,25310
+2013,Smokeless Tobacco Use (Adults),25 to 44 Years,8506,6922,19563,444829,4,0.23,23683,103454
+2013,E-Cigarette Use (Adults),45 to 64 Years,0,0,0,0,0,0.2,36877,182963
+2013,,65 Years and Older,,,,,,0.09,13607,152221
+2014,Cigarette Use (Adults),18 to 24 Years,45592,19181,74535,413394,18,0.17,3795,22079
+2014,Smokeless Tobacco Use (Adults),25 to 44 Years,7451,6103,17576,414577,4,0.22,20067,90160
+2014,E-Cigarette Use (Adults),45 to 64 Years,0,0,0,0,0,0.19,32691,170556
+2014,,65 Years and Older,,,,,,0.09,13129,148589
+2015,Cigarette Use (Adults),18 to 24 Years,42189,18068,68575,395522,17,0.16,3628,22325
+2015,Smokeless Tobacco Use (Adults),25 to 44 Years,7255,6151,17290,396633,4,0.21,18139,86660
+2015,E-Cigarette Use (Adults),45 to 64 Years,0,0,0,0,0,0.19,30208,159933
+2015,,65 Years and Older,,,,,,0.09,12709,143731
+2016,Cigarette Use (Adults),18 to 24 Years,46871,20639,74101,434601,17,0.14,3463,24607
+2016,E-Cigarette Use (Adults),25 to 44 Years,4958,10096,20266,434883,5,0.21,19897,95533
+2016,Smokeless Tobacco Use (Adults),45 to 64 Years,8166,6898,17835,435743,4,0.19,32545,172485
+2016,,65 Years and Older,,,,,,0.09,14086,161637
+2017,Cigarette Use (Adults),18 to 24 Years,43036,19090,68137,402138,17,0.13,3230,24315
+2017,E-Cigarette Use (Adults),25 to 44 Years,4876,8611,18284,400263,5,0.21,19520,92012
+2017,Smokeless Tobacco Use (Adults),45 to 64 Years,8136,6838,17406,403398,4,0.19,28964,156287
+2017,,65 Years and Older,,,,,,0.09,13490,149038
