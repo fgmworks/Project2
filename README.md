@@ -40,6 +40,7 @@ DEMO
 
 
 Problems and Solutions
+
 Finding a dataset-government based data tends to be rich
 Understanding the data
 Null values
@@ -51,6 +52,7 @@ Building a connection between the back and front end
 
 
 Conclusions
+
 E-cigarettes appear to cause a decrease in smoking but not in smokeless tobacco but increased total tobacco users
 It appears that there is no impact on the frequency of use (every day vs some days)
 Percentage of users for youngest group decreased
@@ -58,6 +60,7 @@ number of total users appears to be consistent throughout the years regardless o
 
 
 Future Directions
+
 More visualization on different dimensions
 APIs
 Other db connections such as MongoDB
